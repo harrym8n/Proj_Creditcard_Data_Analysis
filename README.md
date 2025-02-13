@@ -61,5 +61,5 @@
 - 향후 **의사결정나무(Decision Tree)** 또는 **XGBoost 모델**을 활용한 세그먼트별 고객 특성 예측 모델 개발 가능
 
 ---
-- 코드 확인 :
-- PDF 보고서 확인 : 
+- 코드 확인 : [코드 보러가기](https://github.com/harrym8n/Proj_Creditcard_Data_Analysis/blob/main/credit_card_data_analysis.ipynb)
+- PDF 보고서 확인 : [PDF 보고서 보러가기](https://github.com/harrym8n/Proj_Creditcard_Data_Analysis/blob/main/credit_card_data_analysis_report.pdf)
